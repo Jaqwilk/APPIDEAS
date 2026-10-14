@@ -1,0 +1,75 @@
+{
+  "snapshot_date": "2026-10-14",
+  "files": [
+    {
+      "kind": "user_review_export",
+      "original_basename": "PeptidePal_– Peptide_Tracker_US_reviews_2026-10-14 02-45-36.csv",
+      "repository_path": "evidence/reviews/peptidepal-us-2026-10-14.csv",
+      "bytes": 44411,
+      "sha256": "8a9ad774532f3e2597dba2744f25986460e1d17a7d6b0c28a96363ce574c4b14"
+    },
+    {
+      "kind": "user_review_export",
+      "original_basename": "Pep_AI__GLP-1_Peptide_Tracker_US_reviews_2026-10-14 02-45-33.csv",
+      "repository_path": "evidence/reviews/pep-ai-us-2026-10-14.csv",
+      "bytes": 58748,
+      "sha256": "4e08c6b10e5a8b106199345e93e1ac3189028770887f40cde602640a44fc2a58"
+    },
+    {
+      "kind": "user_review_export",
+      "original_basename": "Peptide_Calculator__PepCalc_US_reviews_2026-10-14 02-45-30.csv",
+      "repository_path": "evidence/reviews/pepcalc-us-2026-10-14.csv",
+      "bytes": 931,
+      "sha256": "a0925ea2a60899522ee70ec26b6979fed48b39cbade5da0cda24f9545cf7ba3b"
+    },
+    {
+      "kind": "user_review_export",
+      "original_basename": "Shotsy_GLP-1_Tracker_US_reviews_2026-10-14 02-45-28.csv",
+      "repository_path": "evidence/reviews/shotsy-us-2026-10-14.csv",
+      "bytes": 1006898,
+      "sha256": "ff3f8c24bd6b32030f12c105b7d50b4a93dc8dbe9bde7e611157ca02f373d1b6"
+    },
+    {
+      "kind": "user_screenshot",
+      "original_basename": "codex-clipboard-ab8b7218-df71-4b1e-861f-7d380172b553.png",
+      "repository_path": "evidence/screenshots/aso-01.png",
+      "bytes": 31511,
+      "sha256": "1c70a3a00ef0bf525a1ff3fc317b08121449eca0bd8801cbfc9c2ab15a23a7da"
+    },
+    {
+      "kind": "user_screenshot",
+      "original_basename": "codex-clipboard-b3049ceb-cbd8-4857-b6aa-c1ee6c70ee4b.png",
+      "repository_path": "evidence/screenshots/aso-02.png",
+      "bytes": 225143,
+      "sha256": "a2d8ee47ad2ce8242c05e5fe07d6062e49cf8d8f90bf10d09ccb3fa0ca32e088"
+    },
+    {
+      "kind": "user_screenshot",
+      "original_basename": "codex-clipboard-d99d3454-7a6e-4643-bec9-1f5a42ebd8fa.png",
+      "repository_path": "evidence/screenshots/aso-03.png",
+      "bytes": 230335,
+      "sha256": "1d6417acf4999ffb2511e6c5a73e48eaf440562a1933deaa420671fb09df6ef6"
+    },
+    {
+      "kind": "user_screenshot",
+      "original_basename": "codex-clipboard-2b7cf3db-09d2-4513-ac1b-1f13b6e5280a.png",
+      "repository_path": "evidence/screenshots/aso-04.png",
+      "bytes": 223279,
+      "sha256": "ca54b04540b4db220e0e14f878b86cd77164653ccf59e7a2c4956a25416a98d8"
+    },
+    {
+      "kind": "user_screenshot",
+      "original_basename": "codex-clipboard-2e7740da-e94d-4d04-b991-81ae91563160.png",
+      "repository_path": "evidence/screenshots/aso-05.png",
+      "bytes": 227860,
+      "sha256": "9445090a6f9dda8976037d867da3c33f5bd6ab0935cb394257bac6d7ae8e719d"
+    },
+    {
+      "kind": "user_screenshot",
+      "original_basename": "codex-clipboard-e495fca6-f123-4935-a26c-09f93779b0a0.png",
+      "repository_path": "evidence/screenshots/aso-06.png",
+      "bytes": 227903,
+      "sha256": "b56eae3ca66ca3b5fa3e1484aab112e696b3a8941a0e8380b16a3295b42a542b"
+    }
+  ]
+}
