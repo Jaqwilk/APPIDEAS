@@ -1,0 +1,44 @@
+{
+  "snapshot": "2026-10-14",
+  "market": "US",
+  "scope": "Exact keyword rows read from screenshots, not US aggregate header averages",
+  "unknown_metrics": "No downloads, revenue, retention, conversion or acquisition costs supplied for these alternatives.",
+  "keywords": [
+    {
+      "keyword": "receipt organizer",
+      "popularity": 32,
+      "difficulty": 54,
+      "source_screenshot": "receipt-organizer.png"
+    },
+    {
+      "keyword": "free receipt organizer",
+      "popularity": 5,
+      "difficulty": 13,
+      "source_screenshot": "receipt-organizer.png"
+    },
+    {
+      "keyword": "receipt scanner",
+      "popularity": 51,
+      "difficulty": 43,
+      "source_screenshot": "receipt-scanner.png"
+    },
+    {
+      "keyword": "free receipt scanner",
+      "popularity": 15,
+      "difficulty": 26,
+      "source_screenshot": "receipt-scanner.png"
+    },
+    {
+      "keyword": "receipt scanner for money",
+      "popularity": 5,
+      "difficulty": 17,
+      "source_screenshot": "receipt-scanner.png"
+    },
+    {
+      "keyword": "receipt scanner for taxes",
+      "popularity": 5,
+      "difficulty": 16,
+      "source_screenshot": "receipt-scanner.png"
+    }
+  ]
+}

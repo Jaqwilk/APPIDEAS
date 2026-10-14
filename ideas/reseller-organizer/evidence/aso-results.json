@@ -1,0 +1,32 @@
+{
+  "snapshot": "2026-10-14",
+  "market": "US",
+  "scope": "Exact keyword rows read from screenshots, not US aggregate header averages",
+  "unknown_metrics": "No downloads, revenue, retention, conversion or acquisition costs supplied for these alternatives.",
+  "keywords": [
+    {
+      "keyword": "reselling",
+      "popularity": 21,
+      "difficulty": 57,
+      "source_screenshot": "reselling.png"
+    },
+    {
+      "keyword": "marketplace for reselling items",
+      "popularity": 5,
+      "difficulty": 7,
+      "source_screenshot": "reselling.png"
+    },
+    {
+      "keyword": "clothes reselling",
+      "popularity": 5,
+      "difficulty": 7,
+      "source_screenshot": "reselling.png"
+    },
+    {
+      "keyword": "vinted reselling",
+      "popularity": 5,
+      "difficulty": 7,
+      "source_screenshot": "reselling.png"
+    }
+  ]
+}

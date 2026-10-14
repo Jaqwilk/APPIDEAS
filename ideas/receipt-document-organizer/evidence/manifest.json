@@ -1,0 +1,21 @@
+{
+  "research_snapshot": "2026-10-14",
+  "capture_timestamp": "unknown",
+  "market": "US",
+  "source": "User-provided ASO screenshots; interface appears to be Astro",
+  "interpretation": "Popularity and difficulty are indices, not search counts or success probabilities.",
+  "files": [
+    {
+      "original_basename": "codex-clipboard-28338a97-7195-4bf3-95e4-deaee7f084a7.png",
+      "repository_path": "receipt-organizer.png",
+      "bytes": 116438,
+      "sha256": "de8dbda9a49e17346c3f1289ca3007d3c109e0ceae83e789c01e2ab52a57022c"
+    },
+    {
+      "original_basename": "codex-clipboard-904b0c26-6f71-44c5-b151-a43aed490152.png",
+      "repository_path": "receipt-scanner.png",
+      "bytes": 116677,
+      "sha256": "23699238fe0266109e2ff42e609dbaefb330b343b24a25d70cd6ba7618db64d4"
+    }
+  ]
+}

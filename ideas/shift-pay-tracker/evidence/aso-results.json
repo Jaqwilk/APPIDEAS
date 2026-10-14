@@ -1,0 +1,50 @@
+{
+  "snapshot": "2026-10-14",
+  "market": "US",
+  "scope": "Exact keyword rows read from screenshots, not US aggregate header averages",
+  "unknown_metrics": "No downloads, revenue, retention, conversion or acquisition costs supplied for these alternatives.",
+  "keywords": [
+    {
+      "keyword": "shift calendar",
+      "popularity": 37,
+      "difficulty": 27,
+      "source_screenshot": "shift-calendar.png"
+    },
+    {
+      "keyword": "firefighter shift calendar",
+      "popularity": 14,
+      "difficulty": 14,
+      "source_screenshot": "shift-calendar.png"
+    },
+    {
+      "keyword": "fire shift calendar",
+      "popularity": 14,
+      "difficulty": 12,
+      "source_screenshot": "shift-calendar.png"
+    },
+    {
+      "keyword": "paycheck calculator",
+      "popularity": 37,
+      "difficulty": 23,
+      "source_screenshot": "paycheck-calculator.png"
+    },
+    {
+      "keyword": "my paycheck calculator",
+      "popularity": 13,
+      "difficulty": 11,
+      "source_screenshot": "paycheck-calculator.png"
+    },
+    {
+      "keyword": "paycheck calculator free",
+      "popularity": 5,
+      "difficulty": 7,
+      "source_screenshot": "paycheck-calculator.png"
+    },
+    {
+      "keyword": "paycheck calculator work hours",
+      "popularity": 5,
+      "difficulty": 7,
+      "source_screenshot": "paycheck-calculator.png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "research_snapshot": "2026-10-14",
+  "capture_timestamp": "unknown",
+  "market": "US",
+  "source": "User-provided ASO screenshots; interface appears to be Astro",
+  "interpretation": "Popularity and difficulty are indices, not search counts or success probabilities.",
+  "files": [
+    {
+      "original_basename": "codex-clipboard-2a87cb28-6d88-41e4-8488-d4bb82633606.png",
+      "repository_path": "reselling.png",
+      "bytes": 106684,
+      "sha256": "1ddf0a90d12df5f9b912af4c3a8d16c01e4fa69442b749e6c0dcca07561d83c3"
+    }
+  ]
+}
